@@ -1,0 +1,5 @@
+QPBO-v1.3.src.tar
+src/pyqpbo.cpp
+build/
+pyqpbo.egg-info/
+.idea/
